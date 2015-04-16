@@ -1,4 +1,4 @@
-# Better living through version control
+# Better living through version control!!
 
 **David Eads** ([@eads](http://twitter.com/eads), davideads@gmail.com)
 
