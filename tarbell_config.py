@@ -32,8 +32,8 @@ S3_BUCKETS = {
      #Provide target -> s3 url pairs, such as:
          #"mytarget": "mys3url.bucket.url/some/path"
      #then use tarbell publish mytarget to publish to it
-    'production': 'recoveredfactory.net/whats-an-internet',
-    'staging': 'recoveredfactory.net/whats-an-internet',
+    'production': 'recoveredfactory.net/better-living',
+    'staging': 'recoveredfactory.net/better-living',
 }
 
 # Default template variables
