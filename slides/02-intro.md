@@ -1,11 +1,5 @@
-Hello
------
+# Better living through version control
 
-**David Eads** ([@eads](http://twitter.com/eads), deads@tribune.com)
+**David Eads** ([@eads](http://twitter.com/eads), davideads@gmail.com)
 
-**Ryan Mark** ([@ryanmark](http://twitter.com/ryanmark), rmark@tribune.com)
-
-[Chicago Tribune News Applications
-Team](http://apps.chicagotribune.com)
-
-[Chicago Tribune blog](http://blog.apps.chicagotribune.com)
+Based on a presentation developed with **Ryan Mark** ([@ryanmark](http://twitter.com/ryanmark))

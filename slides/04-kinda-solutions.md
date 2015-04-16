@@ -7,5 +7,3 @@ Some solutions
 - Content management systems: Drupal, Wordpress, ...
 - Enterprise web suites: Sharepoint, Confluence, Alfresco.
 - Source code control / version control: Git (and mercurial, bazaar, subversion...)
-
-**Version control is everywhere, even if you didn't notice it!**

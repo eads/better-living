@@ -1,10 +1,10 @@
-Problems
---------
+## Features
 
-- Many people working on the same thing. Not necessarily in the same place, but possibly at the same time.
-- Want to delete something but not lose it
-- Not sure where the other gal made a change
-- Wouldn't it be cool if you could see how the thing evolved?
-- Associating changes with their authors
-- Editing someone else's work
-- Proposing alternate version
+- Collaborate without being in the same place
+- Work on the same code at the same time
+- Delete something but not lose it
+- Associate changes with their authors
+- Figure out where the other gal made a change
+- See how the thing evolved
+- Edit someone else's work
+- Propose alternate version
